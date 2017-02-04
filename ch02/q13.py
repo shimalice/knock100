@@ -1,6 +1,6 @@
- # coding: utf-8
+# coding: utf-8
 
- if __name__ == '__main__':
+if __name__ == '__main__':
     col1 = open('col1.txt', 'r')
     col2 = open('col2.txt', 'r')
 
